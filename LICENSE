@@ -2,11 +2,6 @@ MIT License
 
 Copyright (c) 2026 Sellframe Ltd (4dayweek.io)
 
-This licence covers the contents of this repository only — the server manifest,
-the documentation and the configuration snippets. It does not grant any licence
-to the data returned by the 4dayweek.io API or MCP endpoint, which is governed
-by section 10 of the Terms of Service at https://4dayweek.io/terms.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

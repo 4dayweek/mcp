@@ -1,0 +1,21 @@
+# Notice
+
+⚠️ The MIT licence in [LICENSE](LICENSE) covers the contents of **this repository
+only** — the server manifest, the documentation and the configuration snippets.
+
+**It grants no licence to the data.** Results returned by the 4dayweek.io API and
+MCP endpoint are governed by [section 10 of our Terms](https://4dayweek.io/terms):
+a limited, revocable licence to use and display them in your own product,
+conditioned on crediting 4dayweek.io and linking back, staying within the
+published rate limits, not misstating an employer's working-hours policy, and not
+using them to build a competing job board.
+
+Our aggregate market statistics are separately published under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) on our
+[data page](https://4dayweek.io/data).
+
+This carve-out lives here rather than inside `LICENSE` so that the MIT text stays
+byte-identical to the canonical template: GitHub, Smithery and the MCP directories
+detect a licence by matching that template, and prose added inside it makes the
+file read as `NOASSERTION` — which costs a grade on two of the directories this
+repository exists to satisfy.

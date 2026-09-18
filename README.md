@@ -150,7 +150,7 @@ Full policy: https://4dayweek.io/privacy
 ## Licence
 
 The contents of this repository — the manifest, this documentation and the configuration snippets —
-are MIT licensed (see [LICENSE](LICENSE)).
+are MIT licensed (see [LICENSE](LICENSE) and [NOTICE](NOTICE)).
 
 **That is not a licence to the data.** Results returned by the API and the MCP endpoint are covered
 by [section 10 of our Terms](https://4dayweek.io/terms): a limited, revocable licence to use and
