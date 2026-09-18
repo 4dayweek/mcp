@@ -1,0 +1,12 @@
+{
+  "name": "4dayweek",
+  "version": "1.0.0",
+  "description": "Read-only access to the 4dayweek.io job board: search live listings and employers by schedule type, look one up in full, read market statistics, and get the definitions that separate a genuine 4-day week from a compressed 4x10. No API key.",
+  "author": {
+    "name": "4dayweek.io",
+    "url": "https://4dayweek.io"
+  },
+  "homepage": "https://4dayweek.io/mcp",
+  "license": "MIT",
+  "keywords": ["jobs", "careers", "job-search", "hr", "4-day-week", "mcp"]
+}

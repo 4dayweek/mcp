@@ -1,0 +1,16 @@
+{
+  "name": "4dayweek-io",
+  "description": "The 4dayweek.io MCP server: read-only search over jobs and employers with genuinely reduced working hours.",
+  "owner": {
+    "name": "4dayweek.io",
+    "email": "phil@4dayweek.io",
+    "url": "https://4dayweek.io"
+  },
+  "plugins": [
+    {
+      "name": "4dayweek",
+      "source": "./plugins/4dayweek",
+      "description": "Search jobs and employers with genuinely reduced working hours — 4-day weeks, 9-day fortnights, half-day Fridays — from inside Claude Code."
+    }
+  ]
+}

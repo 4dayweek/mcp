@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "4dayweek": {
+      "type": "http",
+      "url": "https://4dayweek.io/api/mcp"
+    }
+  }
+}
